@@ -4,7 +4,7 @@
 📍 Medellín, Colombia · [LinkedIn](https://www.linkedin.com/in/martin-montoya-83a21a346/) · martinmontoya.1247@gmail.com
 
 Construyo aplicaciones web con **Java + Spring Boot + MySQL** y automatizo procesos de negocio con **Google Apps Script y Google Sheets**.
-Trabajo en el área de riesgos de una firma consultora (auditorías, control de accesos e informes de gestión). Esa experiencia me hace priorizar dos cosas: datos confiables y procesos controlados.
+
 
 > *Software Engineering student building Java/Spring Boot backends and business-process automations with Google Apps Script.*
 
